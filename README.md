@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Natasha Folorunsho 👋🏾
 
-<!--
-**Natasha-genomics/Natasha-genomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Zoology student at the University of Ilorin, Nigeria  
+🧬 Aspiring Bioinformatician | Bridging Biology & Data  
+🌍 Open to remote internships & research collaborations  
+📚 Currently learning: Python | Bioinformatics tools | Data Analysis  
 
-Here are some ideas to get you started:
+## 🔬 About Me
+I'm a science student with a passion for using computational tools to solve biological problems. I'm on a journey to become a bioinformatician — combining my love for living systems with the power of data and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills In Progress
+- 🐍 Python (beginner)
+- 🧪 Biological databases (NCBI)
+- 📊 Data Analysis
+- 🔗 Git & GitHub
+
+## 🎯 Goals
+- Land a remote bioinformatics internship
+- Contribute to genomics/health research in Africa
+- Use data to solve real biological problems
+
+## 📫 Let's Connect
+- 📧 Email: natashafolorunsho@gmail.com
